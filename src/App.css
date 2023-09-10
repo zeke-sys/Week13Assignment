@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.center { /*adding new class to apply form in center of page as instructed */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.body { /*added new class to apply background color to body*/
+  background-color: rgb(197, 252, 197);
+}
